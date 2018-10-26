@@ -243,8 +243,7 @@ namespace midterm
                 // -----------------------------------------------------------------------------------
                 int youngIndex = 0;
                 int oldIndex = 0;
-
-
+                
                 // -----------------------------------------------------------------------------------
 
                 /* Create two integer variables that will hold the ages of the oldest and the youngest
